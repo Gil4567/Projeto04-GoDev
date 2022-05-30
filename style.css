@@ -33,7 +33,7 @@ body {
 }
 
 .span-two {
-  grid-column: span2;
+  grid-column: span 2;
 }
 
 .grid-container > .output {
