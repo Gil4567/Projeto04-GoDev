@@ -52,7 +52,7 @@ body {
 }
 
 .grid-container > .output > .previous-operand {
-  color: rgba(255, 222, 255, 0, 75);
+  color: rgb(184, 176, 176);
   font-size: 1.5rem;
 }
 
