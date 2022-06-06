@@ -30,7 +30,12 @@ body {
   color: white;
 }
 
-.grid-container > .operaton {
+.grid-container > button:hover {
+  background-color: #eee;
+  color: #111;
+}
+
+.grid-container > .operator {
   background: #419cb8;
 }
 
